@@ -1,0 +1,6 @@
+hello.py
+#игнор exe в корне
+/*.exe
+/inquiry/*
+/my+virtual/*
+.idea
